@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "backend.host",
+    "type": "java.lang.String",
+    "description": "A description for 'backend.host'"
+  },
+  {
+    "name": "backend.port",
+    "type": "java.lang.String",
+    "description": "A description for 'backend.port'"
+  },
+  {
+    "name": "app.version",
+    "type": "java.lang.String",
+    "description": "A description for 'app.version'"
+  }
+]}
